@@ -14,7 +14,7 @@ Based on [this](http://code.google.com/p/arduino-tiny/).
  * ATtiny 48
 
 #Setup#
-[check this out](http://highlowtech.org/?p=1695).
+[Check this out](http://highlowtech.org/?p=1695).
 
 Use this *hardware* folder instead of the in the link above.
 You need: 

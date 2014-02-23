@@ -9,7 +9,7 @@ Based on [this](http://code.google.com/p/arduino-tiny/).
 #supported boards#
  * ATtiny 25
  * ATtiny 45
- * ATtiny85
+ * ATtiny 85
  * ATtiny 44
  * ATtiny 48
 
